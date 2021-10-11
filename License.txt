@@ -1,0 +1,9 @@
+Pente
+
+This program is freeware.
+You may not sell or distribute it as a comercial product.
+
+You may not use the source code to create a comercial product.
+
+Program Author: Armando de la Torre
+Web page: www.ephesossoftware.com
